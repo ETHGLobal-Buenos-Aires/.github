@@ -4,7 +4,7 @@ Welcome to our hackathon projects built at **ETHGlobal Buenos Aires 2025**!
 
 ## 🏆 Projects
 
-### 🏠 [ZilloPoly](https://github.com/YOUR_USERNAME/zillopoly)
+### 🏠 [ZilloPoly](https://github.com/ETHGLobal-Buenos-Aires/zillopoly)
 **Public** • JavaScript
 
 A gamified housing market prediction game built on Celo that combines real-world property data with blockchain-based betting mechanics. Players use HOBO tokens to predict whether property prices will go up or down, competing in single-player survival mode or real-time 1v1 multiplayer battles.
@@ -20,7 +20,7 @@ A gamified housing market prediction game built on Celo that combines real-world
 
 ---
 
-### 📱 [mini-app](https://github.com/YOUR_USERNAME/mini-app)
+### 📱 [mini-app](https://github.com/ETHGLobal-Buenos-Aires/mini-app)
 **Private** • TypeScript
 
 The core Farcaster Mini-App infrastructure and smart contract integration for ZilloPoly. This repository contains the backend services, WebSocket server, and contract interaction layer.
@@ -61,8 +61,4 @@ We created **ZilloPoly**, a gamified prediction platform that makes housing mark
 ## 👥 Team
 
 Built with ❤️ at ETHGlobal Buenos Aires 2025
-
----
-
-**Note:** Replace `YOUR_USERNAME` with your actual GitHub username/organization name in the repository links above.
 
