@@ -21,7 +21,7 @@ A gamified housing market prediction game built on Celo that combines real-world
 ---
 
 ### 📱 [mini-app](https://github.com/ETHGLobal-Buenos-Aires/mini-app)
-**Private** • TypeScript
+**Public** • TypeScript
 
 The core Farcaster Mini-App infrastructure and smart contract integration for ZilloPoly. This repository contains the backend services, WebSocket server, and contract interaction layer.
 
